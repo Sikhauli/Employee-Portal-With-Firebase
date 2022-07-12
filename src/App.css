@@ -1,0 +1,25 @@
+.App{
+
+  height: 100%;
+  width: 100vw;
+  padding: 0px;
+  margin-top: 5vh;
+  margin-left: 2vw;
+  /* margin-right: 2vw; */
+
+}
+/* 
+.Add{
+
+  float: right;
+  background: blue;
+  margin-bottom: 10vh;
+}
+
+.List{
+
+  float: left;
+  background: grey;
+  float: right;
+
+} */

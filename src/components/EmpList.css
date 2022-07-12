@@ -1,0 +1,48 @@
+*{
+    /* background-color: black; */
+}
+
+
+table{
+
+    height: 100%;
+    width: 59vw;
+    float: right;
+    border-radius: 5px;
+
+
+}
+
+thead{
+
+    background-color: black;
+    border-radius: 5px;
+
+}
+
+thead tr{
+
+background: rgb(102, 99, 99);
+border-radius: 5px;
+
+
+}
+
+
+thead tr td{
+
+    color: white;
+    text-align: center;
+
+}
+tbody{
+
+    background: #b9b5b5;
+
+}
+
+tbody tr td{
+
+    color: #0b0b0b;
+
+}
